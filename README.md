@@ -13,7 +13,7 @@ An advanced Nextcloud installation script made by Tjodh, it contains the install
 Clone the github repo, or download the .sh file and put it on your device. run it (as administrator) to start the script.
 To run the script open a terminal and go to the file, than run the following commands: 'chown u+x InstallScriptFinal.sh' than 'sudo ./InstallScriptFinal.sh'
 
-[Images.](https://www.dropbox.com/s/9dc9lx8qs55wh2l/Main%20Menu.png?dl=0)
+![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
 ## Credit
 This project was created by github user https://github.com/Tjodh.
 
