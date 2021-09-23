@@ -751,9 +751,9 @@ menu
 
 function editphp() {
         clear
-        echo " --------------------------------"
+        echo "---------------------------------"
         echo "| Do you want to edit php? (y/n) |"
-        echo " --------------------------------"
+        echo "---------------------------------"
         read answer27
     if [ "$answer27" != "${answer27#[Yy]}" ] ;then
         sudo nano /etc/php/7.4/cli/php.ini
@@ -762,9 +762,9 @@ function editphp() {
         menu
     else
         clear
-        echo " ---------------------------------------------------"
+        echo "----------------------------------------------------"
         echo "| Something went wrong (Press ENTER to continue...) |"
-        echo " ---------------------------------------------------"
+        echo "----------------------------------------------------"
         read ENTER
         editphp
     fi
