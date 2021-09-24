@@ -1,5 +1,7 @@
 # Tjodh's Nextcloud Installation Scipt
 ## Table of Contents
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 * [About this Project](#About)
 * [Usage](#Usage)
