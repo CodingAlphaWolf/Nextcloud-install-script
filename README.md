@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/github/last-commit/Tjodh/Nextcloud-install-script?style=plastic)
 ![image](https://img.shields.io/github/downloads/Tjodh/Nextcloud-install-script/total?style=plastic)
 ![image](https://img.shields.io/github/languages/top/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/repo-size/Tjodh/Nextcloud-install-script)
+![image](https://img.shields.io/github/repo-size/Tjodh/Nextcloud-install-script?style=plastic)
 
 
 * [About this Project](#About)
