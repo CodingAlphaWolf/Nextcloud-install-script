@@ -1,7 +1,13 @@
 # Tjodh's Nextcloud Installation Scipt
 ## Table of Contents
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![image](/github/all-contributors/:user/:repo/:branch*)
+![image](https://img.shields.io/github/contributors-anon/Tjodh/Nextcloud-install-script?color=Green&label=Contributors&style=plastic)
+![image](https://img.shields.io/github/commit-activity/w/Tjodh/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/last-commit/Tjodh/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/downloads/Tjodh/Nextcloud-install-script/total?style=plastic)
+![image](https://img.shields.io/github/languages/top/Tjodh/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/repo-size/Tjodh/Nextcloud-install-script)
+
 
 * [About this Project](#About)
 * [Usage](#Usage)
