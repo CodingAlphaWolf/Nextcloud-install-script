@@ -6,7 +6,7 @@
 * [Credit](#Credit)
 * [Contribute](#Contribute)
 * [Questions](#Questions)
-* [Progress(#Progress)
+* [Progress](#Progress)
 
 ## About
 An advanced Nextcloud installation script made by Tjodh, it contains the installation and configuration needed to install Nextcloud on your linux device.
@@ -29,9 +29,8 @@ This script contains;
 Clone the github repo, or download the .sh file and put it on your device. run it (as administrator) to start the script.
 To run the script open a terminal and go to the file, than run the following commands: 
 
-'chown u+x InstallScriptFinal.sh' 
-than 
-'sudo ./InstallScriptFinal.sh'
+Commad 1: chown u+x InstallScriptFinal.sh 
+Command 2: sudo ./InstallScriptFinal.sh
 
 ![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
 ![Security Sub Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
@@ -50,4 +49,5 @@ If you have any questions please contact https://github.com/tjodh.
 ## Progress
 
 - [X] Upload to github.
+- [X] Add pictures of current interface (non GUI)
 - [ ] Add a Graphical User Interface.
