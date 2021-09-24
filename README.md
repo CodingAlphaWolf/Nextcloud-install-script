@@ -3,16 +3,18 @@
 
 * [About this Project](#About)
 * [Usage](#Usage)
+* [Images](#Images)
 * [Credit](#Credit)
 * [Contribute](#Contribute)
 * [Questions](#Questions)
 * [Progress](#Progress)
 
 ## About
-An advanced Nextcloud installation script made by Tjodh, it contains the installation and configuration needed to install Nextcloud on your linux device.
+An advanced Nextcloud installation script made by Tjodh, 
+it contains the installation and configuration needed to install and configurate Nextcloud on your linux device (Tested on Lubuntu).
 
-But in a small package designed to make the installation process easy for new users. 
-This script contains;
+Designed to make the installation process easy for new users. 
+This script contains:
 
 1. The installation of Nextcloud
 2. Webservers (Apache and Ngnix)
@@ -22,15 +24,18 @@ This script contains;
 6. Installation of a database
 7. How to make an administrator account for nextcloud. 
 8. Security options: (Fail2ban install and configuration, Install SSL, make an certificate (Auto or Manual) and Install Let's Encrypt.)
-9. Configuration for Trusted Domains, Page Loading Fix included. And some extra's :P
+9. Configuration for Trusted Domains, Page Loading Fix included.
+10. And more! :P
 
 
 ## Usage 
-Clone the github repo, or download the .sh file and put it on your device. run it (as administrator) to start the script.
+Clone the github repo, or download the .sh file and put it on your device. run it with administrator rights.
 To run the script open a terminal and go to the file, than run the following commands: 
 
-Commad 1: chown u+x InstallScriptFinal.sh 
-Command 2: sudo ./InstallScriptFinal.sh
+- Command 1: chown u+x InstallScriptFinal.sh 
+- Command 2: sudo ./InstallScriptFinal.sh
+
+## Images
 
 ![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
 ![Security Sub Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
