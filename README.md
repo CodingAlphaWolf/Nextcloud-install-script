@@ -1,14 +1,11 @@
 # Tjodh's Nextcloud Installation Scipt
 ## Table of Contents
-[![Contibutors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
 
 * [About](#About)
 * [Usage](#Usage)
-* [Credit](#credit)
-* [Contribute](#contribute)
-* [Test](#test)
+* [Credit](#Credit)
+* [Contribute](#Contribute)
+* [Questions](#Questions)
 
 ## About
 An advanced Nextcloud installation script made by Tjodh, it contains the installation and configuration needed to install Nextcloud on your linux device.
