@@ -1,13 +1,19 @@
 # Tjodh's Nextcloud Installation Scipt
 ## Table of Contents
-* [Description](#Description)
+[![Contibutors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+
+* [About](#About this project)
 * [Usage](#Usage)
 * [Credit](#credit)
 * [Contribute](#contribute)
 * [Test](#test)
 
-## Description 
+## About this project
 An advanced Nextcloud installation script made by Tjodh, it contains the installation and configuration needed to install Nextcloud on your linux device.
+But in a small package designed to make the installation process easy for new users. This script contains the installation of Nextcloud, Webservers (Apache and Ngnix), Install PHP, IP viewing, Configurate Apache or Ngnix. Installation of a database, How to make an administrator account for nextcloud, Security options: (Fail2ban install and configuration, Install SSL, make an certificate (Auto or Manual), Install Let's Encrypt.), Configuration for Trusted Domains, Page Loading Fix included. And some extra's :P
+
 
 ## Usage 
 Clone the github repo, or download the .sh file and put it on your device. run it (as administrator) to start the script.
