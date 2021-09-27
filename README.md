@@ -1,4 +1,4 @@
-# Tjodh's Nextcloud Installation Scipt
+# Tjodh's Nextcloud Installation Script
 ## Table of Contents
 ![image](https://img.shields.io/github/contributors-anon/Tjodh/Nextcloud-install-script?color=Green&label=Contributors&style=plastic)
 ![image](https://img.shields.io/github/commit-activity/w/Tjodh/Nextcloud-install-script?style=plastic)
