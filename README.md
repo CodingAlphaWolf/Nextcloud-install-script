@@ -11,7 +11,7 @@
 * [About this Project](#About)
 * [Usage](#Usage)
 * [Images](#Images)
-* [Credit](#Credit)
+* [Credits](#Credits)
 * [Contribute](#Contribute)
 * [Questions](#Questions)
 * [Progress](#Progress)
@@ -47,7 +47,7 @@ To run the script open a terminal and go to the file, than run the following com
 ![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
 ![Security Sub Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
 
-## Credit
+## Credits
 This project was created by github user https://github.com/Tjodh.
 
 
