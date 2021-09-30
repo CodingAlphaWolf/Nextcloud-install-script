@@ -453,7 +453,7 @@ clear
                                     sudo wget https://download.nextcloud.com/server/releases/nextcloud-21.0.1.zip
                                     sudo unzip nextcloud-21.0.1.zip -d /usr/share/"$DOMAINNAME"/
                                     echo " -------------------------------------------------------------------------------------------------"
-                                    echo "| Nextcloud 21.0.0 is succesfully installed at /var/www/$DOMAINNAME/ (Press ENTER to continue...) |"
+                                    echo "| Nextcloud 21.0.1 is succesfully installed at /var/www/$DOMAINNAME/ (Press ENTER to continue...) |"
                                     echo " -------------------------------------------------------------------------------------------------"
                                     read ENTER
                                     ngown
@@ -467,7 +467,7 @@ clear
                                     sudo wget https://download.nextcloud.com/server/releases/nextcloud-21.0.2.zip
                                     sudo unzip nextcloud-21.0.2.zip -d /usr/share/"$DOMAINNAME"/
                                     echo " -------------------------------------------------------------------------------------------------"
-                                    echo "| Nextcloud 21.0.0 is succesfully installed at /var/www/$DOMAINNAME/ (Press ENTER to continue...) |"
+                                    echo "| Nextcloud 21.0.2 is succesfully installed at /var/www/$DOMAINNAME/ (Press ENTER to continue...) |"
                                     echo " -------------------------------------------------------------------------------------------------"
                                     read ENTER
                                     ngown
