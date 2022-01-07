@@ -44,7 +44,7 @@ To run the script open a terminal and go to the file, than run the following com
 
 ## Images
 
-![Main Menu](https://raw.githubusercontent.com/CodingAlphaWolf/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
+![Main Menu](https://github.com/CodingAlphaWolf/Nextcloud-install-script/blob/main/screenshot/main-menu.png)
 ![Security Sub Menu](https://raw.githubusercontent.com/CodingAlphaWolf/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
 
 ## Credits
