@@ -792,7 +792,7 @@ echo "! Special Thanks to  !
          \__/
 "     
 echo ' '
-echo "This tool is created by Thierry Jansen op de Haar."
+echo "This tool is created by CodingAlphaWolf a.k.a mr. T."
 echo ' ' 
 echo "To succesfully complete the Open Source course."
 echo ":P"
@@ -804,12 +804,7 @@ menu
 function menu() {
 clear
 echo '
-___________ __           .___.__                                
-\__    ___/|__| ____   __| _/|  |__                             
-  |    |   |  |/  _ \ / __ | |  |  \                            
-  |    |   |  (  <_> ) /_/ | |   Y  \                           
-  |____/\__|  |\____/\____ | |___|  /                           
-       \______|           \/      \/                            
+                          
  __      __      ___.                                           
 /  \    /  \ ____\_ |__   ______ ______________  __ ___________ 
 \   \/\/   // __ \| __ \ /  ___// __ \_  __ \  \/ // __ \_  __ \
@@ -828,7 +823,7 @@ ___________           .__
   |    |(  <_> |  <_> )  |__                                    
   |____| \____/ \____/|____/ '
 echo ' '
-echo 'Welcome to this webserver install tool (by Tjodh) v2.4b'
+echo 'Welcome to this webserver install tool (by CodingAlphaWolf) v2.4b'
 echo ' '
 PS4='Please enter your choice: '
 options=("Install a Webserver" "Edit PHP" "Install Nextcloud (Apache)" "Install Nextcloud (Nginx)" "Whats my IP" "Configure Apache Mariadb (APS)" "Configure Nginx mysql for (NGS)" "Make an admin account" "Security Options" "Configure Trusted Domains" "Possible page loading fix" "Quit")
