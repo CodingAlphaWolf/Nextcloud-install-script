@@ -1,11 +1,11 @@
-# Tjodh's Nextcloud Installation Script
+# CodingAlphaWolf Nextcloud Installation Script
 ## Table of Contents
-![image](https://img.shields.io/github/contributors-anon/Tjodh/Nextcloud-install-script?color=Green&label=Contributors&style=plastic)
-![image](https://img.shields.io/github/commit-activity/w/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/last-commit/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/downloads/Tjodh/Nextcloud-install-script/total?style=plastic)
-![image](https://img.shields.io/github/languages/top/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/repo-size/Tjodh/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/contributors-anon/CodingAlphaWolf/Nextcloud-install-script?color=Green&label=Contributors&style=plastic)
+![image](https://img.shields.io/github/commit-activity/w/CodingAlphaWolf/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/last-commit/CodingAlphaWolf/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/downloads/CodingAlphaWolf/Nextcloud-install-script/total?style=plastic)
+![image](https://img.shields.io/github/languages/top/CodingAlphaWolf/Nextcloud-install-script?style=plastic)
+![image](https://img.shields.io/github/repo-size/CodingAlphaWolf/Nextcloud-install-script?style=plastic)
 
 
 * [About this Project](#About)
@@ -17,7 +17,7 @@
 * [Progress](#Progress)
 
 ## About
-An advanced Nextcloud installation script made by Tjodh, 
+An advanced Nextcloud installation script made by CodingAlphaWolf, 
 it contains the installation and configuration needed to install and configurate Nextcloud on your linux device (Tested on Lubuntu).
 
 Designed to make the installation process easy for new users. 
@@ -44,11 +44,11 @@ To run the script open a terminal and go to the file, than run the following com
 
 ## Images
 
-![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
-![Security Sub Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
+![Main Menu](https://raw.githubusercontent.com/CodingAlphaWolf/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
+![Security Sub Menu](https://raw.githubusercontent.com/CodingAlphaWolf/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
 
 ## Credits
-This project was created by github user https://github.com/Tjodh.
+This project was created by github user https://github.com/CodingAlphaWolf.
 
 
 ## Contribute 
@@ -56,7 +56,7 @@ If you wish to contribute to this application please send a pull request.
 
 
 ## Questions
-If you have any questions please contact https://github.com/tjodh.
+If you have any questions please contact https://github.com/CodingAlphaWolf.
 
 ## Progress
 
